@@ -11,9 +11,11 @@ This repository will document learning content about cypress
 2. In a command window: npm install cypress --save-dev
 3. Check installation by running: npx cypress open
 
-## To be demonstrated:
+## Demo files
+- [`BackToTech.spec.js`](https://github.com/VBota1/HelloCypress/blob/main/cypress/integration/1-getting-started/BackToTech.spec.js)
+- [`Bootstrap.spec.js`](https://github.com/VBota1/HelloCypress/blob/main/cypress/integration/1-getting-started/Bootstrap.spec.js)
 
-Demo file is `[BackToTech.spec.js]`(/cypress/integration/1-getting-started/BackToTech.spec.js)
+## Demo content:
 
 - [x] Folder structure
 - [x] Trigger test execution / How to open a page in a browser
